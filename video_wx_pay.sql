@@ -1,11 +1,6 @@
 /*
 Navicat MySQL Data Transfer
 
-Source Server         : 阿里云-小鱼
-Source Server Version : 50717
-Source Host           : 182.92.161.227:3306
-Source Database       : 13-WX_Pay
-
 Target Server Type    : MYSQL
 Target Server Version : 50717
 File Encoding         : 65001
