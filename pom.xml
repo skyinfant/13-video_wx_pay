@@ -113,7 +113,7 @@
             <scope>test</scope>
         </dependency>
 
-        <!-- google二维码生成包 -->
+        <!-- google二维码生成包 123-->
         <dependency>
             <groupId>com.google.zxing</groupId>
             <artifactId>javase</artifactId>
