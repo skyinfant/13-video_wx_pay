@@ -3,27 +3,6 @@
 前端代码地址：https://github.com/skyinfant/13-video_wx_pay_front
 本项目共有两大主要功能：微信授权登陆和微信扫码支付
 
-项⽬技术栈：
------------后端--------------------------
-Springboot2.X
-Mysql
-Mybatis3.X
-PageHelper            分页插件
-jwt                   登陆鉴权
-logback               日志
-gson                 json工具
-HttpClient           发起http/https请求
-com.google.zxing     二维码工具，把url生成为二维码    支付二维码
-md5                  生成签名sign
-uuid                 生成订单号
-
-----------前端-------------------
-html
-js
-bootstrap
-jquery
-jquery-cookie      cookie工具
-
 
 部署方式：
 1、在mysql创建一个database，然后执行项目中的video_wx_pay.sql，生成相关表和数据
